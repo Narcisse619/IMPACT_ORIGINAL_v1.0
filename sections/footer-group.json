@@ -107,8 +107,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Nous contacter",
+            "content": "<p>Service client :<a>contact@clarizena.com</a></p><p>Horaires d’ouverture : Lundi – Vendredi : 8h00 à 18h00<br/><br/>Samedi et Dimanche : 9h00 à 12h00</p>",
             "enable_follow_on_shop": true
           }
         }
