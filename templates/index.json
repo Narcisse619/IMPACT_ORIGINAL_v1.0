@@ -373,8 +373,8 @@
             "image": "shopify://shop_images/doctor.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Technologie cliniquement validée.",
+            "content": "<p>Plus de <strong>150 études scientifiques</strong> publiées dans des revues médicales internationales confirment l'efficacité de la luminothérapie LED pour le rajeunissement cutané. Les dermatologues utilisent cette technologie car elle stimule naturellement la régénération cellulaire sans aucun effet secondaire.<br/><br/></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -384,8 +384,8 @@
           "settings": {
             "image_rotation_degrees": 1.5,
             "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Recommandé par les professionnels",
+            "content": "<p>Les dermatologues prescrivent régulièrement la luminothérapie LED à leurs patients car c'est l'une des <strong>rares technologies non-invasives</strong> scientifiquement prouvées pour inverser les signes du vieillissement cutané. Contrairement aux crèmes dont l'efficacité varie selon les individus, la lumière LED agit directement au niveau cellulaire avec des résultats prévisibles.<br/><br/></p>",
             "button_url": "",
             "button_text": ""
           }
@@ -395,8 +395,8 @@
           "settings": {
             "image_rotation_degrees": 0,
             "subheading": "",
-            "title": "Image with text",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Résultats mésurables scientifiquement",
+            "content": "<p>Les études dermatologiques montrent des améliorations mesurables dès <strong>14 jours d'utilisation</strong> : +34% de production de collagène, -67% des bactéries responsables de l'acné, +28% d'élasticité cutanée. Ces chiffres ne mentent pas et expliquent pourquoi les dermatologues font confiance à cette technologie.<br/><br/></p>",
             "button_url": "",
             "button_text": ""
           }
