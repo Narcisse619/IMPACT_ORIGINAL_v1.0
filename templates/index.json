@@ -54,18 +54,18 @@
             "link": ""
           }
         },
-        "logo_GARXRf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/le-monde-logo-png_seeklogo-314483.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_dmW9Qr": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/cOSMOPOLITAN-removebg-preview.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_GARXRf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/le-monde-logo-png_seeklogo-314483.png",
             "logo_width": 120,
             "link": ""
           }
@@ -90,8 +90,8 @@
       "block_order": [
         "logo_yHTyjm",
         "logo_qiaKeR",
-        "logo_GARXRf",
         "logo_dmW9Qr",
+        "logo_GARXRf",
         "logo_JNWKBa",
         "logo_DPcK86"
       ],
