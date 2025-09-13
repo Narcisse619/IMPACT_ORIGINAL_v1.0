@@ -630,6 +630,7 @@
         "item_4pci4P": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/789e7db84251788e2d702540435ecdaa.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Vert 520nm",
