@@ -367,6 +367,7 @@
         "item_ifEJR9": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1106408045510804268.jpg",
             "column_size": "3",
             "title": "Francky A.",
             "heading_tag": "h4",
