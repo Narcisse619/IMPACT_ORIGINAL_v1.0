@@ -288,6 +288,7 @@
         "item_mGW7FT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/39c1df40bbfeff4603c623b162e60d9b.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
