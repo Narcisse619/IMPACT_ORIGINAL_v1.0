@@ -506,6 +506,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_GNfRhY": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. temps de réponse moyenne : 24h",
+        "title": "Une question?",
+        "content": "<p>Ecrivez-nous via</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -518,6 +539,7 @@
     "multi_column_XpqYex",
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
-    "faq_Fw6U7g"
+    "faq_Fw6U7g",
+    "contact_GNfRhY"
   ]
 }
