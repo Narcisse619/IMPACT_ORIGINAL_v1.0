@@ -341,10 +341,11 @@
         "item_GAX3im": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1106262390-670368829.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Camille",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mon salon de beauté perso ! </p><p>Je n'ai plus le temps d'aller en institut. Avec ce masque, en 20 minutes le soir devant ma série, je prends soin de ma peau. Mon teint est plus lumineux. Un investissement que je ne regrette absolument pas.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
