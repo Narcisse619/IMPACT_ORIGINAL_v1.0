@@ -712,7 +712,7 @@
         "full_width": true,
         "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyenne : 24h",
         "title": "Une question?",
-        "content": "<p>Ecrivez-nous via</p>",
+        "content": "<p>Ecrivez-nous via ce formulaire et vous recevrez une réponse en moins de 24h.</p>",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
