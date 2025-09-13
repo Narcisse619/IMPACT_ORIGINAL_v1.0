@@ -249,6 +249,7 @@
         "item_BMygf7": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/f751b15f41f0ef83256159e608628dc4.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
