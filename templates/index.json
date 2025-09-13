@@ -257,6 +257,7 @@
         "item_GG3U7j": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/doctor.jpg",
             "image_rotation_degrees": -2,
             "subheading": "",
             "title": "Heading 1",
