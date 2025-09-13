@@ -306,54 +306,6 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "item_CHUKpn": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_nF4jpE": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_wA6dkp": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_EQ8TcK": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
@@ -364,11 +316,7 @@
         "item_3Nnjyq",
         "item_h4MHx6",
         "item_mGW7FT",
-        "item_8kFGc8",
-        "item_CHUKpn",
-        "item_nF4jpE",
-        "item_wA6dkp",
-        "item_EQ8TcK"
+        "item_8kFGc8"
       ],
       "name": "Image link blocks",
       "settings": {
