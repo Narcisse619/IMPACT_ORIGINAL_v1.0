@@ -556,6 +556,15 @@
     "rich_text_GLm76J": {
       "type": "rich-text",
       "blocks": {
+        "image_H7tQiJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Light-Therapy-Face-Lifting-LED-Mask-ORTOREX-2.webp",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        },
         "heading_xRLHf9": {
           "type": "heading",
           "settings": {
@@ -573,6 +582,7 @@
         }
       },
       "block_order": [
+        "image_H7tQiJ",
         "heading_xRLHf9",
         "richtext_kcMCBr"
       ],
