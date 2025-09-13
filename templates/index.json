@@ -596,59 +596,44 @@
         "text_color": ""
       }
     },
-    "multiple_images_with_text_caFyrB": {
-      "type": "multiple-images-with-text",
+    "images_with_text_scrolling_H3ebGD": {
+      "type": "images-with-text-scrolling",
       "blocks": {
-        "item_XMyKcA": {
+        "item_UjyUHB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/527bf3864d2fd1772bf4bfd49132e7ef.jpg",
-            "image_rotation_degrees": -2,
-            "subheading": "",
+            "icon": "none",
+            "icon_width": 48,
             "title": "Rouge 630nm",
-            "content": "<p>Votre experte anti-âge qui efface rides et ridules.<br/><br/></p>",
-            "button_url": "",
-            "button_text": ""
+            "content": "<p>Votre experte anti-âge qui efface rides et ridules.<br/></p>"
           }
         },
-        "item_zf7BMY": {
+        "item_3NTKTe": {
           "type": "item",
           "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
+            "icon": "none",
+            "icon_width": 48,
             "title": "Bleu 470nm",
-            "content": "<p>Votre dermatologue qui élimine acné et imperfections.<br/><br/></p>",
-            "button_url": "",
-            "button_text": ""
-          }
-        },
-        "item_Ezg3GC": {
-          "type": "item",
-          "settings": {
-            "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Bleu 470nm",
-            "content": "<p>Votre dermatologue qui élimine acné et imperfections.<br/><br/></p>",
-            "button_url": "",
-            "button_text": ""
+            "content": "<p>Votre dermatologue qui élimine acné et imperfections.<br/><br/></p>"
           }
         }
       },
       "block_order": [
-        "item_XMyKcA",
-        "item_zf7BMY",
-        "item_Ezg3GC"
+        "item_UjyUHB",
+        "item_3NTKTe"
       ],
-      "name": "Multiple images with text",
+      "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "images_layout": "stacked",
-        "collage_images_alignment": "middle",
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "featured_product_FYXgpp": {
@@ -1031,7 +1016,7 @@
     "scrolling_text_TMaTNk",
     "multi_column_XpqYex",
     "rich_text_GLm76J",
-    "multiple_images_with_text_caFyrB",
+    "images_with_text_scrolling_H3ebGD",
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
     "faq_Fw6U7g",
