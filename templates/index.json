@@ -65,6 +65,7 @@
         "logo_qiaKeR": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Marieclaire_Logo-01-01_250x250_bbf391d2-b841-4c10-924c-a31ec99b59c5.png",
             "logo_width": 120,
             "link": ""
           }
