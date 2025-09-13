@@ -311,6 +311,13 @@
             "payment_button_text_color": ""
           }
         },
+        "image_jVPQwG": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "pickup_availability_GUdrW4": {
           "type": "pickup_availability",
           "settings": {}
@@ -328,6 +335,7 @@
         "variant_picker_kAkLcz",
         "quantity_selector_qHU88j",
         "buy_buttons_4zHFFA",
+        "image_jVPQwG",
         "pickup_availability_GUdrW4"
       ],
       "name": "Featured product",
