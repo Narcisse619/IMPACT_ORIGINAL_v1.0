@@ -69,13 +69,22 @@
             "logo_width": 120,
             "link": ""
           }
+        },
+        "logo_DPcK86": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marieclaire_Logo-01-01_250x250_bbf391d2-b841-4c10-924c-a31ec99b59c5.png",
+            "logo_width": 120,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_yHTyjm",
         "logo_qiaKeR",
         "logo_dmW9Qr",
-        "logo_JNWKBa"
+        "logo_JNWKBa",
+        "logo_DPcK86"
       ],
       "name": "Logo list",
       "settings": {
