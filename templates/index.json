@@ -386,6 +386,32 @@
         "heading_gradient": ""
       }
     },
+    "rich_text_K7nTYY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_9qDXWJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Approuvé par les dermatologues",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_9qDXWJ"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple_images_with_text_Cgp7iM": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -439,46 +465,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "rich_text_Rqct4F": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_MwrVJ8": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_QaWbNb": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_iJBK9c": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_MwrVJ8",
-        "heading_QaWbNb",
-        "richtext_iJBK9c"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "scrolling_text_TMaTNk": {
@@ -1030,8 +1016,8 @@
     "rich_text_GPwpPe",
     "rich_text_VQGDWr",
     "image_link_blocks_BPzM4D",
+    "rich_text_K7nTYY",
     "multiple_images_with_text_Cgp7iM",
-    "rich_text_Rqct4F",
     "scrolling_text_TMaTNk",
     "multi_column_XpqYex",
     "featured_product_FYXgpp",
