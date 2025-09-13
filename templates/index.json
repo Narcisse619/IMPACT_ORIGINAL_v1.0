@@ -965,46 +965,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "rich_text_8GfETJ": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_FniAYe": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_pWxGkB": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_fFbdcy": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_FniAYe",
-        "heading_pWxGkB",
-        "richtext_fFbdcy"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -1024,7 +984,6 @@
     "tabs_AVRQ3D",
     "faq_Fw6U7g",
     "contact_GNfRhY",
-    "text_with_icons_VXjcmn",
-    "rich_text_8GfETJ"
+    "text_with_icons_VXjcmn"
   ]
 }
