@@ -301,6 +301,7 @@
         "item_8kFGc8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/527bf3864d2fd1772bf4bfd49132e7ef.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
