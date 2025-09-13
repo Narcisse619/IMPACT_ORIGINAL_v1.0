@@ -325,19 +325,6 @@
     "multi_column_XpqYex": {
       "type": "multi-column",
       "blocks": {
-        "item_jQayNt": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1106484073-1183517476.jpg",
-            "column_size": "3",
-            "title": "Veronica M.",
-            "heading_tag": "h4",
-            "content": "<p>Simple, efficace et relaxant. Ce que j'adore, c'est la simplicité. On l'enfile, on appuie sur un bouton et c'est parti. La lumière rouge est très apaisante. Ma peau est plus ferme et je me sens incroyablement détendue après chaque séance.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_GAX3im": {
           "type": "item",
           "settings": {
@@ -346,6 +333,19 @@
             "title": "Camille",
             "heading_tag": "h4",
             "content": "<p>Mon salon de beauté perso ! </p><p>Je n'ai plus le temps d'aller en institut. Avec ce masque, en 20 minutes le soir devant ma série, je prends soin de ma peau. Mon teint est plus lumineux. Un investissement que je ne regrette absolument pas.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_jQayNt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1106484073-1183517476.jpg",
+            "column_size": "3",
+            "title": "Veronica M.",
+            "heading_tag": "h4",
+            "content": "<p>Simple, efficace et relaxant. Ce que j'adore, c'est la simplicité. On l'enfile, on appuie sur un bouton et c'est parti. La lumière rouge est très apaisante. Ma peau est plus ferme et je me sens incroyablement détendue après chaque séance.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -401,8 +401,8 @@
         }
       },
       "block_order": [
-        "item_jQayNt",
         "item_GAX3im",
+        "item_jQayNt",
         "item_xMTkcz",
         "item_ifEJR9",
         "item_YL84nk",
