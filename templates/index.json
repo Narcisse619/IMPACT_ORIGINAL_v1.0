@@ -616,11 +616,61 @@
             "title": "Bleu 470nm",
             "content": "<p>Votre dermatologue qui élimine acné et imperfections.<br/><br/></p>"
           }
+        },
+        "item_rKqYDG": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Jaune 590nm",
+            "content": "<p>Votre coach beauté qui illumine et unifie votre teint.<br/><br/></p>"
+          }
+        },
+        "item_4pci4P": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Vert 520nm",
+            "content": "<p>Votre équilibriste qui régule sébum et pores dilatés.<br/></p>"
+          }
+        },
+        "item_w46AYC": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Violet 1040nm",
+            "content": "<p>Votre cicatrisante qui répare et régénère.<br/><br/></p>"
+          }
+        },
+        "item_eBMPN8": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Cyan 490nm",
+            "content": "<p>Votre activatrice de croissance cellulaire.</p>"
+          }
+        },
+        "item_GdAFPq": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Infrarouge 1580nm",
+            "content": "<p>Votre apaisante qui calme irritations et rougeurs.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
         "item_UjyUHB",
-        "item_3NTKTe"
+        "item_3NTKTe",
+        "item_rKqYDG",
+        "item_4pci4P",
+        "item_w46AYC",
+        "item_eBMPN8",
+        "item_GdAFPq"
       ],
       "name": "Images and text scrolling",
       "settings": {
