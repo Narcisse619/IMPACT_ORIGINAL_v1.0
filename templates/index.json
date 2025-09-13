@@ -640,6 +640,7 @@
         "item_w46AYC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/dcaefca7301eb067691d10b8f95df0ca.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Violet 1040nm",
