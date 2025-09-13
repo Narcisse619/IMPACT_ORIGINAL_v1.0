@@ -262,6 +262,7 @@
         "item_3Nnjyq": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/453bbfd0cfe38d7ca6e657b8a5a32f06.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
