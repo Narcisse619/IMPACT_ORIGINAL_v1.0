@@ -247,24 +247,29 @@
             "liquid": ""
           }
         },
-        "vendor_Bhymc7": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title_dhMggN": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges_8QRL3A": {
-          "type": "badges",
-          "settings": {}
-        },
         "price_U47MgG": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_zBWUeW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "image_aKL6QX": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
           }
         },
         "rating_a4WXqQ": {
@@ -315,10 +320,10 @@
       },
       "block_order": [
         "liquid_x7Yi4L",
-        "vendor_Bhymc7",
         "title_dhMggN",
-        "badges_8QRL3A",
         "price_U47MgG",
+        "liquid_zBWUeW",
+        "image_aKL6QX",
         "rating_a4WXqQ",
         "separator_AKVG3K",
         "description_4w8HTU",
