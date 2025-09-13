@@ -253,6 +253,10 @@
             "heading_tag": "h2"
           }
         },
+        "badges_8QRL3A": {
+          "type": "badges",
+          "settings": {}
+        },
         "price_U47MgG": {
           "type": "price",
           "settings": {
@@ -265,7 +269,7 @@
             "liquid": ""
           }
         },
-        "image_aKL6QX": {
+        "image_kWbJrn": {
           "type": "image",
           "settings": {
             "alignment": "start",
@@ -321,9 +325,10 @@
       "block_order": [
         "liquid_x7Yi4L",
         "title_dhMggN",
+        "badges_8QRL3A",
         "price_U47MgG",
         "liquid_zBWUeW",
-        "image_aKL6QX",
+        "image_kWbJrn",
         "rating_a4WXqQ",
         "separator_AKVG3K",
         "description_4w8HTU",
