@@ -378,10 +378,11 @@
         "item_YL84nk": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1104997294-99593176.jpg",
             "column_size": "3",
-            "title": "Aurélia G.",
+            "title": "Renia V.",
             "heading_tag": "h4",
-            "content": "<p>Un résultat professionnel à la maison. En tant qu'esthéticienne, je suis exigeante. Ce masque est vraiment pro. Les LED sont puissantes et bien réparties. Je l'utilise pour potentialiser les soins de mes clientes et pour moi-même. Un must-have ! </p>",
+            "content": "<p>J'adore ce produit, il est facile à utiliser et ça m'aide beaucoup pour mes acnées et les rides.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
