@@ -327,8 +327,9 @@
         "item_jQayNt": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1106484073-1183517476.jpg",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Veronica M.",
             "heading_tag": "h4",
             "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_url": "",
