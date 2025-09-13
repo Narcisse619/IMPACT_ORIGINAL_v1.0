@@ -178,27 +178,104 @@
         "text_color": ""
       }
     },
-    "before_after_image_DcBdRM": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "rich_text_VQGDWr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KGYwWF": {
+          "type": "heading",
+          "settings": {
+            "text": "Résultat Avant/Après",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_KGYwWF"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "",
-        "title": "Résultat Avant/Après",
-        "content": "",
-        "expand_image": false,
+        "content_width": "small",
         "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_link_blocks_BPzM4D": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "item_FRfVxz": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_LPCTxE": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_xCw4wA": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_BMygf7": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "item_FRfVxz",
+        "item_LPCTxE",
+        "item_xCw4wA",
+        "item_BMygf7"
+      ],
+      "name": "Image link blocks",
+      "settings": {
+        "full_width": false,
+        "block_size": "medium",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "before_after_image_HNAb7e": {
@@ -813,7 +890,8 @@
     "image_with_text_overlay_tVmKc4",
     "rich_text_Yc83RF",
     "rich_text_GPwpPe",
-    "before_after_image_DcBdRM",
+    "rich_text_VQGDWr",
+    "image_link_blocks_BPzM4D",
     "before_after_image_HNAb7e",
     "rich_text_6XBnmA",
     "multiple_images_with_text_Cgp7iM",
