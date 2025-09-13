@@ -553,6 +553,39 @@
         "text_color": ""
       }
     },
+    "rich_text_GLm76J": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_xRLHf9": {
+          "type": "heading",
+          "settings": {
+            "text": "Imaginez avoir 7 Esthéticiennes Expertes à Domicile.",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_kcMCBr": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Chez Skinova, nous avons conçu un masque de luminothérapie révolutionnaire qui réunit <strong>7 expertes en un seul dispositif</strong>. Chaque couleur cible un besoin spécifique de votre peau, pour des résultats cliniquement prouvés et une routine sur-mesure à domicile. Voici votre équipe de spécialistes :<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xRLHf9",
+        "richtext_kcMCBr"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_FYXgpp": {
       "type": "featured-product",
       "blocks": {
@@ -932,6 +965,7 @@
     "multiple_images_with_text_Cgp7iM",
     "scrolling_text_TMaTNk",
     "multi_column_XpqYex",
+    "rich_text_GLm76J",
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
     "faq_Fw6U7g",
