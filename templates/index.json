@@ -237,6 +237,120 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_FYXgpp": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_Bhymc7": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_dhMggN": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_8QRL3A": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_U47MgG": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_a4WXqQ": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_AKVG3K": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_4w8HTU": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_kAkLcz": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_qHU88j": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_4zHFFA": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_GUdrW4": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_Bhymc7",
+        "title_dhMggN",
+        "badges_8QRL3A",
+        "price_U47MgG",
+        "rating_a4WXqQ",
+        "separator_AKVG3K",
+        "description_4w8HTU",
+        "variant_picker_kAkLcz",
+        "quantity_selector_qHU88j",
+        "buy_buttons_4zHFFA",
+        "pickup_availability_GUdrW4"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "custom_liquid_BPtcnA": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>pkpkk",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -246,6 +360,8 @@
     "image_with_text_overlay_tVmKc4",
     "rich_text_GPwpPe",
     "video_dzAmBL",
-    "multi_column_XpqYex"
+    "multi_column_XpqYex",
+    "featured_product_FYXgpp",
+    "custom_liquid_BPtcnA"
   ]
 }
