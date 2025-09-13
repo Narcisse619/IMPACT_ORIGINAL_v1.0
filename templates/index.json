@@ -556,15 +556,6 @@
     "rich_text_GLm76J": {
       "type": "rich-text",
       "blocks": {
-        "image_H7tQiJ": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Light-Therapy-Face-Lifting-LED-Mask-ORTOREX-2.webp",
-            "width_mode": "custom",
-            "max_width": 600,
-            "mobile_max_width": 400
-          }
-        },
         "heading_xRLHf9": {
           "type": "heading",
           "settings": {
@@ -572,6 +563,15 @@
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
+          }
+        },
+        "image_H7tQiJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Light-Therapy-Face-Lifting-LED-Mask-ORTOREX-2.webp",
+            "width_mode": "custom",
+            "max_width": 600,
+            "mobile_max_width": 400
           }
         },
         "richtext_kcMCBr": {
@@ -582,8 +582,8 @@
         }
       },
       "block_order": [
-        "image_H7tQiJ",
         "heading_xRLHf9",
+        "image_H7tQiJ",
         "richtext_kcMCBr"
       ],
       "name": "Rich text",
@@ -594,6 +594,61 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "multiple_images_with_text_caFyrB": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "item_XMyKcA": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/527bf3864d2fd1772bf4bfd49132e7ef.jpg",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Rouge 630nm",
+            "content": "<p>Votre experte anti-âge qui efface rides et ridules.<br/><br/></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_zf7BMY": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Bleu 470nm",
+            "content": "<p>Votre dermatologue qui élimine acné et imperfections.<br/><br/></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_Ezg3GC": {
+          "type": "item",
+          "settings": {
+            "image_rotation_degrees": 1.5,
+            "subheading": "",
+            "title": "Bleu 470nm",
+            "content": "<p>Votre dermatologue qui élimine acné et imperfections.<br/><br/></p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_XMyKcA",
+        "item_zf7BMY",
+        "item_Ezg3GC"
+      ],
+      "name": "Multiple images with text",
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
       }
     },
     "featured_product_FYXgpp": {
@@ -976,6 +1031,7 @@
     "scrolling_text_TMaTNk",
     "multi_column_XpqYex",
     "rich_text_GLm76J",
+    "multiple_images_with_text_caFyrB",
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
     "faq_Fw6U7g",
