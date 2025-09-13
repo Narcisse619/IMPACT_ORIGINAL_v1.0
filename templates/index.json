@@ -193,66 +193,46 @@
         "overlay_opacity": 0
       }
     },
-    "dawn_text_APbfeG": {
-      "type": "dawn-text",
+    "rich_text_6XBnmA": {
+      "type": "rich-text",
       "blocks": {
-        "item_ikk9RU": {
-          "type": "item",
+        "heading_8WqBdU": {
+          "type": "heading",
           "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_dawn_text": false,
-            "animate_dawn_text_duration": 2
-          }
-        },
-        "item_aEGNcy": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_dawn_text": false,
-            "animate_dawn_text_duration": 2
-          }
-        },
-        "item_g97jRe": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_dawn_text": false,
-            "animate_dawn_text_duration": 2
+            "text": "Ce que les masque de nouvelle génération de Skinova fait  pour vous",
+            "heading_tag": "h4",
+            "text_color": "",
+            "gradient": ""
           }
         }
       },
       "block_order": [
-        "item_ikk9RU",
-        "item_aEGNcy",
-        "item_g97jRe"
+        "heading_8WqBdU"
       ],
-      "name": "dawn text",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
-        "text_alignment": "center",
-        "dawn_text_style": "fill",
-        "text_divider": "none",
-        "dawn_text_size_ratio": 1,
+        "content_width": "small",
+        "text_position": "center",
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "",
+        "text_color": ""
+      }
+    },
+    "scrolling_text_TMaTNk": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": false,
+        "text": "Plus que 4 en stock",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
         "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "text_gradient": ""
       }
     },
     "multi_column_XpqYex": {
@@ -687,7 +667,8 @@
     "image_with_text_overlay_tVmKc4",
     "rich_text_GPwpPe",
     "video_dzAmBL",
-    "dawn_text_APbfeG",
+    "rich_text_6XBnmA",
+    "scrolling_text_TMaTNk",
     "multi_column_XpqYex",
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
