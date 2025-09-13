@@ -236,6 +236,7 @@
         "item_xCw4wA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/AVISMASQUE3.png",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
