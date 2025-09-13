@@ -276,12 +276,6 @@
             "max_width": 150
           }
         },
-        "rating_a4WXqQ": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_AKVG3K": {
           "type": "separator",
           "settings": {}
@@ -329,7 +323,6 @@
         "price_U47MgG",
         "liquid_zBWUeW",
         "image_kWbJrn",
-        "rating_a4WXqQ",
         "separator_AKVG3K",
         "description_4w8HTU",
         "variant_picker_kAkLcz",
