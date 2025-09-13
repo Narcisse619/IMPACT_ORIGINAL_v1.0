@@ -611,6 +611,7 @@
         "item_3NTKTe": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/83d99629eb8b0692f75a834c2d12821e.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Bleu 470nm",
