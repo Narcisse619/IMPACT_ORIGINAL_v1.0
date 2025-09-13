@@ -362,12 +362,51 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_ifEJR9": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Francky A.",
+            "heading_tag": "h4",
+            "content": "<p>Ma peau est ultra-sensible et se couvre de rougeurs au moindre changement. La lumière infrarouge a changé ma vie. Elle calme instantanément les irritations. Je ne m'en passe plus.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_YL84nk": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Aurélia G.",
+            "heading_tag": "h4",
+            "content": "<p>Un résultat professionnel à la maison. En tant qu'esthéticienne, je suis exigeante. Ce masque est vraiment pro. Les LED sont puissantes et bien réparties. Je l'utilise pour potentialiser les soins de mes clientes et pour moi-même. Un must-have ! </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_rUfkib": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Aurélia G.",
+            "heading_tag": "h4",
+            "content": "<p>Un résultat professionnel à la maison. En tant qu'esthéticienne, je suis exigeante. Ce masque est vraiment pro. Les LED sont puissantes et bien réparties. Je l'utilise pour potentialiser les soins de mes clientes et pour moi-même. Un must-have ! </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
         "item_jQayNt",
         "item_GAX3im",
-        "item_xMTkcz"
+        "item_xMTkcz",
+        "item_ifEJR9",
+        "item_YL84nk",
+        "item_rUfkib"
       ],
       "name": "Multi-column",
       "settings": {
