@@ -275,6 +275,7 @@
         "item_h4MHx6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/cf823e8af97a53b025463b392df02d56.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
