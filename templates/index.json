@@ -300,6 +300,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "image_jVPQwG": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
+        },
         "buy_buttons_4zHFFA": {
           "type": "buy_buttons",
           "settings": {
@@ -309,13 +316,6 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
-          }
-        },
-        "image_jVPQwG": {
-          "type": "image",
-          "settings": {
-            "alignment": "start",
-            "max_width": 150
           }
         },
         "pickup_availability_GUdrW4": {
@@ -341,8 +341,8 @@
         "description_4w8HTU",
         "variant_picker_kAkLcz",
         "quantity_selector_qHU88j",
-        "buy_buttons_4zHFFA",
         "image_jVPQwG",
+        "buy_buttons_4zHFFA",
         "pickup_availability_GUdrW4",
         "image_izewnk"
       ],
