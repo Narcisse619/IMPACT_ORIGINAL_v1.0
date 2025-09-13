@@ -406,10 +406,11 @@
         "item_MBKFT6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1106312344-1560953176.jpg",
             "column_size": "3",
             "title": "Thérésa H.",
             "heading_tag": "h4",
-            "content": "<p>Revitalisez votre peau en stimulant le collagène, en lissant les rides et en dévoilant un éclat plus ferme et plus jeune, le tout dans le confort de votre maison. Je suis très fière de l'avoir acheté.</p>",
+            "content": "<p>Revitalise votre peau en stimulant le collagène, en lissant les rides et en dévoilant un éclat plus ferme et plus jeune, le tout dans le confort de votre maison. Je suis très fière de l'avoir acheté. Je le maquille parfois avec du Sharpie LOL.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
