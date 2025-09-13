@@ -399,6 +399,18 @@
             "link_text": "",
             "link_style": "link"
           }
+        },
+        "item_MBKFT6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Thérésa H.",
+            "heading_tag": "h4",
+            "content": "<p>Des résultats visibles en quelques semaines. J'étais sceptique, mais les résultats parlent d'eux-mêmes. Mon teint est uniforme, les taches ont diminué et je reçois des compliments sur ma peau. Le fait de pouvoir le faire à la maison a changé ma routine. </p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
         }
       },
       "block_order": [
@@ -407,7 +419,8 @@
         "item_xMTkcz",
         "item_ifEJR9",
         "item_YL84nk",
-        "item_rUfkib"
+        "item_rUfkib",
+        "item_MBKFT6"
       ],
       "name": "Multi-column",
       "settings": {
