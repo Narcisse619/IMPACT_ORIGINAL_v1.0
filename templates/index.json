@@ -219,52 +219,10 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
-        },
-        "item_LPCTxE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/AVISMASQUE4.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_xCw4wA": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/AVISMASQUE3.png",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_BMygf7": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/f751b15f41f0ef83256159e608628dc4.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
         }
       },
       "block_order": [
-        "item_FRfVxz",
-        "item_LPCTxE",
-        "item_xCw4wA",
-        "item_BMygf7"
+        "item_FRfVxz"
       ],
       "name": "Image link blocks",
       "settings": {
