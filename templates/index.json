@@ -219,10 +219,23 @@
             "overlay_color": "#000000",
             "overlay_opacity": 0
           }
+        },
+        "item_xjzPGT": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
         }
       },
       "block_order": [
-        "item_FRfVxz"
+        "item_FRfVxz",
+        "item_xjzPGT"
       ],
       "name": "Image link blocks",
       "settings": {
@@ -238,56 +251,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "before_after_image_HNAb7e": {
-      "type": "before-after-image",
-      "disabled": true,
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "Avant/Après",
-        "content": "",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
-    "rich_text_6XBnmA": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_8WqBdU": {
-          "type": "heading",
-          "settings": {
-            "text": "Approuvé par les dermatologues",
-            "heading_tag": "h4",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_8WqBdU"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "multiple_images_with_text_Cgp7iM": {
@@ -854,8 +817,6 @@
     "rich_text_GPwpPe",
     "rich_text_VQGDWr",
     "image_link_blocks_BPzM4D",
-    "before_after_image_HNAb7e",
-    "rich_text_6XBnmA",
     "multiple_images_with_text_Cgp7iM",
     "scrolling_text_TMaTNk",
     "multi_column_XpqYex",
