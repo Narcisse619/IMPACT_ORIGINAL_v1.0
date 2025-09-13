@@ -41,6 +41,7 @@
         "logo_yHTyjm": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_3_juil._2025_05_19_28.png",
             "logo_width": 120,
             "link": ""
           }
