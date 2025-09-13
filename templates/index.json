@@ -354,6 +354,7 @@
         "item_xMTkcz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/11064080721570181539.jpg",
             "column_size": "3",
             "title": "Aurélia G.",
             "heading_tag": "h4",
