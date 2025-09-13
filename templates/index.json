@@ -46,6 +46,14 @@
             "link": ""
           }
         },
+        "logo_qiaKeR": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/le-monde-logo-png_seeklogo-314483.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_dmW9Qr": {
           "type": "logo",
           "settings": {
@@ -62,14 +70,6 @@
             "link": ""
           }
         },
-        "logo_qiaKeR": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/le-monde-logo-png_seeklogo-314483.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
         "logo_bYxPzQ": {
           "type": "logo",
           "settings": {
@@ -81,9 +81,9 @@
       },
       "block_order": [
         "logo_yHTyjm",
+        "logo_qiaKeR",
         "logo_dmW9Qr",
         "logo_JNWKBa",
-        "logo_qiaKeR",
         "logo_bYxPzQ"
       ],
       "name": "Logo list",
