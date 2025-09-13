@@ -969,7 +969,7 @@
         "content": "<p>Ecrivez-nous via ce formulaire et vous recevrez une réponse de notre équipe de spécialistes sous 24h.</p>",
         "text_position": "center",
         "contact_form_size": "large",
-        "background": "",
+        "background": "#f83a3a",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
