@@ -54,7 +54,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#c1a129",
+        "background": "#ef4444",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -73,12 +73,13 @@
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
-        "show_social_media": true,
-        "show_locale_selector": true,
+        "show_social_media": false,
+        "show_locale_selector": false,
         "show_country_selector": true,
         "show_country_flag": true,
-        "show_country_name": false,
+        "show_country_name": true,
         "transparent_header_text_color": "#ffffff",
+        "transparent_logo": "shopify://shop_images/SKINOVA_20250913_124718_0000.png",
         "reduce_padding": false,
         "background_opacity": 100,
         "background_blur_radius": 0
