@@ -97,10 +97,53 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_BjRGEF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_bWbY7K": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Skinova ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_bWbY7K"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_tVmKc4": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "image-with-text-overlay",
-    "logo_list_XWXzbW"
+    "logo_list_XWXzbW",
+    "rich_text_BjRGEF",
+    "image_with_text_overlay_tVmKc4"
   ]
 }
