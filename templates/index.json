@@ -393,6 +393,7 @@
         "item_rUfkib": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/11050222511566329848.jpg",
             "column_size": "3",
             "title": "Flore D.",
             "heading_tag": "h4",
