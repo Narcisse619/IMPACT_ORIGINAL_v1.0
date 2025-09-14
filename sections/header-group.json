@@ -56,7 +56,7 @@
         "scrolling_speed": 10,
         "background": "#803cee",
         "background_gradient": "",
-        "text_color": "#FFFFFF"
+        "text_color": "#ffffff"
       }
     },
     "header": {
@@ -65,8 +65,8 @@
         "enable_sticky": true,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/SKINOVA_20250913_183330_0000.png",
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo_max_width": 300,
+        "logo_mobile_max_width": 170,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
