@@ -927,13 +927,6 @@
             "content": "<p>Le masque fonctionne par câble USB ou batterie intégrée selon le modèle. L’autonomie est d’environ 3 à 5 séances par charge.</p>"
           }
         },
-        "item_UWqrVG": {
-          "type": "item",
-          "settings": {
-            "title": "Convient-il à tous les types de peau ?",
-            "content": "<p>Oui, le masque LED Skinova est adapté à tous les types de peaux, même sensibles.</p>"
-          }
-        },
         "item_7fMjBb": {
           "type": "item",
           "settings": {
@@ -991,7 +984,6 @@
         "item_he8azB",
         "item_CCNRh4",
         "item_fbJqBK",
-        "item_UWqrVG",
         "item_7fMjBb",
         "item_aibCDm",
         "item_tTxGgT",
