@@ -425,7 +425,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": false,
-        "text": "Plus que 4 en stock",
+        "text": "Résultats visibles dès 7 jours",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
