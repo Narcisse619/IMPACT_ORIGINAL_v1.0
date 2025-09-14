@@ -604,6 +604,7 @@
         "item_UjyUHB": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1757846372746.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Rouge 630nm",
