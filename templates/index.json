@@ -824,7 +824,7 @@
         "tab_Hjqyfe": {
           "type": "tab",
           "settings": {
-            "title": "Caractéristiques",
+            "title": "Comment utiliser le Masque Led luminothérapie ?",
             "content": "<p>Use this text to share information about your brand with your customers.</p>",
             "page": ""
           }
@@ -832,8 +832,8 @@
         "tab_CdkyiE": {
           "type": "tab",
           "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Nous sommes convaincus de l’efficacité de notre masque LED. C’est pourquoi nous vous offrons 30 jours d’essai sans risque :</p><p>Utilisez le masque chez vous pendant 4 semaines. Constatez les premiers résultats dès 7 jours. Si vous n'êtes pas 100% satisfaite, retour gratuit et remboursement intégral.</p>",
+            "title": "Quand vais-je voir les résultats ?",
+            "content": "<p>Les résultats varient selon les personnes, mais en général :</p><p>Peau plus lumineuse → après quelques séances</p><p>Réduction acné → 1 à 3 semaines</p><p>Réduction rides & ridules → 4 à 6 semaines</p>",
             "page": ""
           }
         },
@@ -856,8 +856,8 @@
         "tab_KEkHeg": {
           "type": "tab",
           "settings": {
-            "title": "Charge optimale",
-            "content": "<p>Votre masque est équipé d’une batterie rechargeable haute performance. </p><ul><li>Une charge complète assure plusieurs séances sans interruption. </li><li>Port USB inclus pour une recharge pratique à la maison ou au bureau.</li></ul><p>Pas besoin de piles ni d’accessoires supplémentaires : simple, écologique et économique.</p>",
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Nous sommes convaincus de l’efficacité de notre masque LED. C’est pourquoi nous vous offrons 30 jours d’essai sans risque :</p><p>Utilisez le masque chez vous pendant 4 semaines. Constatez les premiers résultats dès 7 jours. Si vous n'êtes pas 100% satisfaite, retour gratuit et remboursement intégral.</p>",
             "page": ""
           }
         }
@@ -925,14 +925,7 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps dure la batterie / branchement ?",
-            "content": "<p>Le masque fonctionne par câble USB ou batterie intégrée selon le modèle. L’autonomie est d’environ 3 à 5 séances par charge.</p>"
-          }
-        },
-        "item_7fMjBb": {
-          "type": "item",
-          "settings": {
-            "title": "Quand vais-je voir les résultats ?",
-            "content": "<p>Les résultats varient selon les personnes, mais en général :</p><p>Peau plus lumineuse → après quelques séances</p><p>Réduction acné → 1 à 3 semaines</p><p>Réduction rides & ridules → 4 à 6 semaines</p>"
+            "content": "<p>Le masque fonctionne par câble USB ou batterie intégrée. L’autonomie est d’environ 3 à 5 séances par charge.</p>"
           }
         },
         "item_aibCDm": {
@@ -980,8 +973,8 @@
         "item_V6yaj8": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>Offrez-vous le luxe de la simplicité. Nous vous livrons votre Masque  gratuitement à domicile.</p>"
           }
         },
         "item_jqQwFM": {
@@ -1006,7 +999,6 @@
         "item_he8azB",
         "item_CCNRh4",
         "item_fbJqBK",
-        "item_7fMjBb",
         "item_aibCDm",
         "item_tTxGgT",
         "item_qwCGkV",
