@@ -909,8 +909,8 @@
         "item_he8azB": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Combien de temps dois-je utiliser le masque ?",
+            "content": "<p>Nous recommandons 15 à 20 minutes par séance, 3 à 4 fois par semaine.</p><p>Les premiers résultats sont visibles en 1 à 3 semaines avec une utilisation régulière.</p>"
           }
         },
         "item_CCNRh4": {
