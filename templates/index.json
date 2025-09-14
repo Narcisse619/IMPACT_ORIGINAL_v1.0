@@ -841,7 +841,7 @@
           "type": "tab",
           "settings": {
             "title": "Pourquoi ce prix alors qu'il existe moins cher ?",
-            "content": "<p>Notre masque utilise 192 LED Samsung de qualité médicale vs 60-80 LED bas de gamme ailleurs. Même technologie que les appareils à 15 000€ des dermatologues. Certifications FDA + CE médical.<br/><br/></p>",
+            "content": "<p>Notre masque utilise 192 LED Samsung de qualité médicale vs 60-80 LED ( bas de gamme ailleurs). Même technologie que les appareils à 15 000€ des dermatologues. Certifications FDA + CE médical.<br/><br/></p>",
             "page": ""
           }
         },
