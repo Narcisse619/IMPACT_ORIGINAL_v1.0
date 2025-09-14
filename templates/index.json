@@ -643,7 +643,7 @@
         "item_w46AYC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/dcaefca7301eb067691d10b8f95df0ca.jpg",
+            "image": "shopify://shop_images/1757845790200.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Violet 1040nm",
@@ -653,6 +653,7 @@
         "item_eBMPN8": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1757845806822.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Cyan 490nm",
