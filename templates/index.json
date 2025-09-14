@@ -958,8 +958,8 @@
         "item_ytaPKU": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "Comment nettoyer le masque ?",
+            "content": "<p>Très simple : lingette désinfectante ou chiffon légèrement humide après chaque usage. Laissez sécher à l'air libre. N'immergez jamais dans l'eau.</p>"
           }
         },
         "item_AteHyY": {
