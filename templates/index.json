@@ -731,7 +731,7 @@
           "settings": {
             "image": "shopify://shop_images/1757849353256.png",
             "alignment": "center",
-            "max_width": 150
+            "max_width": 500
           }
         },
         "separator_AKVG3K": {
@@ -761,8 +761,9 @@
         "image_jVPQwG": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/7_1.png",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "buy_buttons_4zHFFA": {
