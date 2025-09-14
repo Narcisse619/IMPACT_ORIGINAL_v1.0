@@ -990,14 +990,14 @@
           "type": "item",
           "settings": {
             "title": "Et par rapport aux crèmes anti-âge ?",
-            "content": "<p>Les crèmes agissent en surface, la LED stimule en profondeur la production naturelle de collagène.</p>"
+            "content": "<p>Les crèmes agissent en surface, le <br/>Skinova™ Beauty Mask stimule en profondeur la production naturelle de collagène.</p>"
           }
         },
         "item_qwCGkV": {
           "type": "item",
           "settings": {
             "title": "Différence avec les instituts de beauté ?",
-            "content": "<p>Même efficacité pour 50x moins cher ! Institut : 150€/séance x 20 = 3000€. Notre masque : usage illimité pour un prix de moins de 50€.</p>"
+            "content": "<p>Même efficacité pour 50x moins cher ! </p><p>Institut : 150€/séance x 20 = 3000€. </p><p>Skinova™ Beauty Mask : usage illimité pour un prix de moins de 50€.</p>"
           }
         },
         "item_ytaPKU": {
