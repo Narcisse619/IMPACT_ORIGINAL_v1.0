@@ -930,6 +930,62 @@
         "heading_gradient": ""
       }
     },
+    "tabs_tKxKkL": {
+      "type": "tabs",
+      "blocks": {
+        "tab_4VwC84": {
+          "type": "tab",
+          "settings": {
+            "title": "Semaine 1 - L'Éveil",
+            "content": "<p>Votre peau se réveille. L'acné diminue, l'éclat revient. On vous demande si vous avez changé de crème.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_zEJFdH": {
+          "type": "tab",
+          "settings": {
+            "title": "Semaine 2 - La Transformation",
+            "content": "<p>Les rides commencent à s'estomper. Vos pores se resserrent. Votre reflet dans le miroir vous surprend agréablement.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_XaXNtL": {
+          "type": "tab",
+          "settings": {
+            "title": "Semaine 3 - La Révélation",
+            "content": "<p>Votre peau rayonne. Les taches s'atténuent. Cette confiance qui revient vous fait vous tenir plus droite.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_yye7Nn": {
+          "type": "tab",
+          "settings": {
+            "title": "Semaine 4 - La Renaissance",
+            "content": "<p>Vous avez retrouvé la peau de vos 20 ans. Compliments garantis à chaque sortie.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_4VwC84",
+        "tab_zEJFdH",
+        "tab_XaXNtL",
+        "tab_yye7Nn"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "En 30 Jours, Votre Entourage Ne Vous Reconnaîtra Plus",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq_Fw6U7g": {
       "type": "faq",
       "blocks": {
@@ -1194,6 +1250,7 @@
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
     "tabs_bq64Re",
+    "tabs_tKxKkL",
     "faq_Fw6U7g",
     "contact_GNfRhY",
     "text_with_icons_VXjcmn"
