@@ -427,7 +427,7 @@
       "settings": {
         "full_width": false,
         "text": "Résultats visibles dès 7 jours !",
-        "text_size": "xsmall",
+        "text_size": "small",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
