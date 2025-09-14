@@ -883,6 +883,53 @@
         "heading_gradient": ""
       }
     },
+    "tabs_bq64Re": {
+      "type": "tabs",
+      "blocks": {
+        "tab_QrDtfh": {
+          "type": "tab",
+          "settings": {
+            "title": "En 7 jours",
+            "content": "<p>Votre peau retrouve son éclat naturel. Fini le teint terne et fatigué qui vous faisait paraître plus âgée.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_xdg4Rj": {
+          "type": "tab",
+          "settings": {
+            "title": "En 15 jours",
+            "content": "<p>Les premières rides commencent à s'atténuer visiblement. Vos amies vous demandent quel est votre secret.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_YCiFDK": {
+          "type": "tab",
+          "settings": {
+            "title": "En 30 jours",
+            "content": "<p>Transformation complète. Votre peau est plus ferme, plus lisse, plus jeune. Vous rayonnez de confiance.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_QrDtfh",
+        "tab_xdg4Rj",
+        "tab_YCiFDK"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Pourquoi des milliers de femmes ne jurent que par ce masque ?",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq_Fw6U7g": {
       "type": "faq",
       "blocks": {
@@ -1146,6 +1193,7 @@
     "images_with_text_scrolling_H3ebGD",
     "featured_product_FYXgpp",
     "tabs_AVRQ3D",
+    "tabs_bq64Re",
     "faq_Fw6U7g",
     "contact_GNfRhY",
     "text_with_icons_VXjcmn"
