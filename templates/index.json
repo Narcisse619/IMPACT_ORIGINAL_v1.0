@@ -729,6 +729,7 @@
         "image_kWbJrn": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/1757849353256.png",
             "alignment": "center",
             "max_width": 150
           }
