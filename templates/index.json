@@ -916,6 +916,27 @@
         "item_CCNRh4": {
           "type": "item",
           "settings": {
+            "title": "Est-ce que je peux l’utiliser avec mes soins habituels ?",
+            "content": "<p>Oui ! Le masque LED Skinova est complémentaire à vos soins (sérums, crèmes, etc.). Il permet même de renforcer leur efficacité en préparant la peau à mieux absorber les actifs.</p>"
+          }
+        },
+        "item_fbJqBK": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_UWqrVG": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_7fMjBb": {
+          "type": "item",
+          "settings": {
             "title": "Question",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
@@ -934,6 +955,9 @@
         "item_d8KHQT",
         "item_he8azB",
         "item_CCNRh4",
+        "item_fbJqBK",
+        "item_UWqrVG",
+        "item_7fMjBb",
         "item_G96KXV"
       ],
       "name": "FAQ",
