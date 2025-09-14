@@ -837,19 +837,19 @@
             "page": ""
           }
         },
-        "tab_FD7zHH": {
-          "type": "tab",
-          "settings": {
-            "title": "",
-            "content": "<p>Offrez-vous le luxe de la simplicité. Nous vous livrons votre Masque  gratuitement à domicile.</p>",
-            "page": ""
-          }
-        },
         "tab_a8XjLi": {
           "type": "tab",
           "settings": {
             "title": "Pourquoi ce prix alors qu'il existe moins cher ?",
             "content": "<p>Notre masque utilise 192 LED Samsung de qualité médicale vs 60-80 LED bas de gamme ailleurs. Même technologie que les appareils à 15 000€ des dermatologues. Certifications FDA + CE médical.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_FD7zHH": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est disponible pour vous 7j/7. Email, chat, téléphone. Réponse garantie sous 24h maximum.</p><h3></h3>",
             "page": ""
           }
         },
@@ -865,8 +865,8 @@
       "block_order": [
         "tab_Hjqyfe",
         "tab_CdkyiE",
-        "tab_FD7zHH",
         "tab_a8XjLi",
+        "tab_FD7zHH",
         "tab_KEkHeg"
       ],
       "name": "Tabs",
