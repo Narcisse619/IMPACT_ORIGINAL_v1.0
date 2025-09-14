@@ -1036,6 +1036,13 @@
             "title": "Puis-je payer en plusieurs fois ?",
             "content": "<p>Oui ! Paiement possible en 3x ou 4x sans frais avec Klarna. Approuvé instantanément.<br/><br/></p>"
           }
+        },
+        "item_GjQAC9": {
+          "type": "item",
+          "settings": {
+            "title": "Caractéristiques de",
+            "content": "<p>Oui ! Paiement possible en 3x ou 4x sans frais avec Klarna. Approuvé instantanément.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
@@ -1052,7 +1059,8 @@
         "item_AteHyY",
         "item_G96KXV",
         "item_V6yaj8",
-        "item_jqQwFM"
+        "item_jqQwFM",
+        "item_GjQAC9"
       ],
       "name": "FAQ",
       "settings": {
