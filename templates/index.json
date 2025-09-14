@@ -937,6 +937,41 @@
         "item_7fMjBb": {
           "type": "item",
           "settings": {
+            "title": "Quand vais-je voir les résultats ?",
+            "content": "<p>Les résultats varient selon les personnes, mais en général :</p><p>Peau plus lumineuse → après quelques séances</p><p>Réduction acné → 1 à 3 semaines</p><p>Réduction rides & ridules → 4 à 6 semaines</p>"
+          }
+        },
+        "item_aibCDm": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_tTxGgT": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_qwCGkV": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_ytaPKU": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        },
+        "item_AteHyY": {
+          "type": "item",
+          "settings": {
             "title": "Question",
             "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
           }
@@ -958,6 +993,11 @@
         "item_fbJqBK",
         "item_UWqrVG",
         "item_7fMjBb",
+        "item_aibCDm",
+        "item_tTxGgT",
+        "item_qwCGkV",
+        "item_ytaPKU",
+        "item_AteHyY",
         "item_G96KXV"
       ],
       "name": "FAQ",
