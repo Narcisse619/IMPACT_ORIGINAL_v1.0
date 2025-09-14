@@ -888,8 +888,8 @@
         "item_44gq9j": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Expédiez-vous à l'étranger ?",
+            "content": "<p>Oui, nous livrons partout dans le monde avec livraison gratuite.</p>"
           }
         },
         "item_FREX83": {
