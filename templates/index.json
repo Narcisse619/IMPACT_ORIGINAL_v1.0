@@ -623,6 +623,7 @@
         "item_rKqYDG": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/1757845452546.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Jaune 590nm",
