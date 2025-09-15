@@ -1174,7 +1174,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "#803cee",
-            "icon_color": "",
+            "icon_color": "#ffffff",
             "title": "Livraison gratuite",
             "content": ""
           }
@@ -1187,7 +1187,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "#803cee",
-            "icon_color": "",
+            "icon_color": "#ffffff",
             "title": "Satisfait ou remboursé",
             "content": ""
           }
@@ -1200,7 +1200,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "#803cee",
-            "icon_color": "",
+            "icon_color": "#ffffff",
             "title": "Service client 7J/7",
             "content": ""
           }
@@ -1213,7 +1213,7 @@
             "icon_width": 32,
             "icon_background_type": "circle",
             "icon_background": "#803cee",
-            "icon_color": "",
+            "icon_color": "#ffffff",
             "title": "Paiement sécurisé",
             "content": ""
           }
