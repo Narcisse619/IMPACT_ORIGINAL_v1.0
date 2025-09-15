@@ -1012,6 +1012,13 @@
     "faq_Fw6U7g": {
       "type": "faq",
       "blocks": {
+        "item_GjQAC9": {
+          "type": "item",
+          "settings": {
+            "title": "Caractéristiques de Skinova™ Beauty Mask",
+            "content": "<p>Skinova™ Beauty Mask</p>"
+          }
+        },
         "item_44gq9j": {
           "type": "item",
           "settings": {
@@ -1109,16 +1116,10 @@
             "title": "Puis-je payer en plusieurs fois ?",
             "content": "<p>Oui ! Paiement possible en 3x ou 4x sans frais avec Klarna. Approuvé instantanément.<br/><br/></p>"
           }
-        },
-        "item_GjQAC9": {
-          "type": "item",
-          "settings": {
-            "title": "Caractéristiques de Skinova™ Beauty Mask",
-            "content": "<p>Skinova™ Beauty Mask</p>"
-          }
         }
       },
       "block_order": [
+        "item_GjQAC9",
         "item_44gq9j",
         "item_FREX83",
         "item_d8KHQT",
@@ -1132,8 +1133,7 @@
         "item_AteHyY",
         "item_G96KXV",
         "item_V6yaj8",
-        "item_jqQwFM",
-        "item_GjQAC9"
+        "item_jqQwFM"
       ],
       "name": "FAQ",
       "settings": {
