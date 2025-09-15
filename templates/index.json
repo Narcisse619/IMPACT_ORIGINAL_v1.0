@@ -825,6 +825,52 @@
         "input_text_color": ""
       }
     },
+    "video_qd9cCR": {
+      "type": "video",
+      "blocks": {
+        "play_VqFBPR": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_VqFBPR"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "video_niXEVx": {
+      "type": "video",
+      "blocks": {
+        "play_AEzfib": {
+          "type": "play",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "play_AEzfib"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "tabs_AVRQ3D": {
       "type": "tabs",
       "blocks": {
@@ -1304,6 +1350,8 @@
     "rich_text_GLm76J",
     "images_with_text_scrolling_H3ebGD",
     "featured_product_FYXgpp",
+    "video_qd9cCR",
+    "video_niXEVx",
     "tabs_AVRQ3D",
     "tabs_bq64Re",
     "tabs_tKxKkL",
