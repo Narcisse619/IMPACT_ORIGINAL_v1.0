@@ -993,6 +993,22 @@
         "heading_gradient": ""
       }
     },
+    "scrolling_text_cDUT6W": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Essayez le Skinova™ Beauty Mask pendant 30 jours, et si vous n’êtes pas entièrement satisfaite, nous vous remboursons intégralement.",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "faq_Fw6U7g": {
       "type": "faq",
       "blocks": {
@@ -1291,6 +1307,7 @@
     "tabs_AVRQ3D",
     "tabs_bq64Re",
     "tabs_tKxKkL",
+    "scrolling_text_cDUT6W",
     "faq_Fw6U7g",
     "contact_GNfRhY",
     "text_with_icons_VXjcmn",
