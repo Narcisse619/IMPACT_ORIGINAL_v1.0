@@ -752,6 +752,12 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "kaching_bundles_app_block_fxkkqV": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "masque-7led-skinova™-luminotherapie"
+          }
+        },
         "image_jVPQwG": {
           "type": "image",
           "settings": {
@@ -794,6 +800,7 @@
         "separator_AKVG3K",
         "variant_picker_kAkLcz",
         "quantity_selector_qHU88j",
+        "kaching_bundles_app_block_fxkkqV",
         "image_jVPQwG",
         "buy_buttons_4zHFFA",
         "pickup_availability_GUdrW4",
