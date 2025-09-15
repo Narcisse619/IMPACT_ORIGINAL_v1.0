@@ -999,7 +999,7 @@
       "settings": {
         "full_width": true,
         "text": "Essayez le Skinova™ Beauty Mask pendant 30 jours, et si vous n’êtes pas entièrement satisfaite, nous vous remboursons intégralement.",
-        "text_size": "small",
+        "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 7,
