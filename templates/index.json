@@ -425,7 +425,7 @@
       "type": "scrolling-text",
       "name": "Scrolling text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "text": "Résultats visibles dès 7 jours !",
         "text_size": "small",
         "text_style": "fill",
