@@ -825,57 +825,38 @@
         "input_text_color": ""
       }
     },
-    "image_with_text_overlay_iUjwjw": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/1758016239219.jpg",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "video_carousel_2_eYHtgj": {
       "type": "video-carousel-2",
       "blocks": {
         "video_LPWjAt": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/lv_0_20250916182239.mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
             "collection": ""
           }
         },
         "video_ALHi7a": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/lv_0_20250916184645.mp4.mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
             "collection": ""
           }
         },
         "video_QkeREi": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/lv_0_20250916185827.mp4.mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
             "collection": ""
           }
         },
         "video_kYApHD": {
           "type": "video",
           "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_ziMCY7": {
-          "type": "video",
-          "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/lv_0_20250916181715.mp4.mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
             "collection": ""
           }
         }
@@ -884,8 +865,7 @@
         "video_LPWjAt",
         "video_ALHi7a",
         "video_QkeREi",
-        "video_kYApHD",
-        "video_ziMCY7"
+        "video_kYApHD"
       ],
       "name": "Video carousel",
       "settings": {
@@ -911,6 +891,22 @@
         "override_theme_font": false,
         "heading_font": "serif",
         "main_font": "system_ui_n4"
+      }
+    },
+    "image_with_text_overlay_iUjwjw": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/1758016239219.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "tabs_bq64Re": {
@@ -1393,8 +1389,8 @@
     "rich_text_GLm76J",
     "images_with_text_scrolling_H3ebGD",
     "featured_product_FYXgpp",
-    "image_with_text_overlay_iUjwjw",
     "video_carousel_2_eYHtgj",
+    "image_with_text_overlay_iUjwjw",
     "tabs_bq64Re",
     "tabs_AVRQ3D",
     "tabs_tKxKkL",
