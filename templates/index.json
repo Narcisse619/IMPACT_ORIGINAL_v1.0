@@ -878,7 +878,7 @@
       "name": "Video carousel",
       "settings": {
         "slide_width": 300,
-        "image_crop": "none",
+        "image_crop": "16:9",
         "aspect_ratio": "3:4",
         "autoplay": 7,
         "gap": 10,
