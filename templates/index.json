@@ -841,6 +841,78 @@
         "overlay_opacity": 0
       }
     },
+    "video_carousel_2_eYHtgj": {
+      "type": "video-carousel-2",
+      "blocks": {
+        "video_LPWjAt": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_ALHi7a": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_QkeREi": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_kYApHD": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_ziMCY7": {
+          "type": "video",
+          "settings": {
+            "product": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_LPWjAt",
+        "video_ALHi7a",
+        "video_QkeREi",
+        "video_kYApHD",
+        "video_ziMCY7"
+      ],
+      "name": "Video carousel",
+      "settings": {
+        "slide_width": 300,
+        "image_crop": "1:1",
+        "aspect_ratio": "1:1",
+        "autoplay": 8,
+        "gap": 10,
+        "show_arrows": false,
+        "text_size": 100,
+        "text_alignment": "left",
+        "text_color": "#121212",
+        "border_color": "#121212",
+        "background_color": "",
+        "border_radius": 10,
+        "base_width": 100,
+        "max_width": "",
+        "inner_padding": 40,
+        "outer_margin": 0,
+        "custom_css": "",
+        "mobile_custom_css": "",
+        "anchor_id": "",
+        "override_theme_font": false,
+        "heading_font": "serif",
+        "main_font": "system_ui_n4"
+      }
+    },
     "tabs_bq64Re": {
       "type": "tabs",
       "blocks": {
@@ -1303,78 +1375,6 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
-    },
-    "video_carousel_2_gNjRMW": {
-      "type": "video-carousel-2",
-      "blocks": {
-        "video_QW67fn": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_RWMmwR": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_jJp7BV": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_iXUDKW": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_nECm4W": {
-          "type": "video",
-          "settings": {
-            "product": "",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_QW67fn",
-        "video_RWMmwR",
-        "video_jJp7BV",
-        "video_iXUDKW",
-        "video_nECm4W"
-      ],
-      "name": "Video carousel",
-      "settings": {
-        "slide_width": 300,
-        "image_crop": "1:1",
-        "aspect_ratio": "9:16",
-        "autoplay": 8,
-        "gap": 10,
-        "show_arrows": false,
-        "text_size": 100,
-        "text_alignment": "left",
-        "text_color": "#121212",
-        "border_color": "#121212",
-        "background_color": "",
-        "border_radius": 10,
-        "base_width": 100,
-        "max_width": "",
-        "inner_padding": 40,
-        "outer_margin": 0,
-        "custom_css": "",
-        "mobile_custom_css": "",
-        "anchor_id": "",
-        "override_theme_font": false,
-        "heading_font": "serif",
-        "main_font": "system_ui_n4"
-      }
     }
   },
   "order": [
@@ -1394,6 +1394,7 @@
     "images_with_text_scrolling_H3ebGD",
     "featured_product_FYXgpp",
     "image_with_text_overlay_iUjwjw",
+    "video_carousel_2_eYHtgj",
     "tabs_bq64Re",
     "tabs_AVRQ3D",
     "tabs_tKxKkL",
@@ -1401,7 +1402,6 @@
     "faq_Fw6U7g",
     "contact_GNfRhY",
     "text_with_icons_VXjcmn",
-    "17579339357c2e188e",
-    "video_carousel_2_gNjRMW"
+    "17579339357c2e188e"
   ]
 }
