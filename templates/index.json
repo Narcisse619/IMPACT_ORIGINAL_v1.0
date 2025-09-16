@@ -825,6 +825,48 @@
         "input_text_color": ""
       }
     },
+    "17580171190be7e1d0": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_video_slider_zgERxf": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-video-slider/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "show-by-tag": false,
+            "layout": "spotlight",
+            "shadow": "",
+            "show-rating": false,
+            "show-reviewer-name": false,
+            "hide-arrows-mobile": true,
+            "auto-play": true,
+            "show-border": false,
+            "border-width": 2,
+            "border-radius": 8,
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": "",
+            "play-button-color": "",
+            "shadow-color": "",
+            "product-id": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_video_slider_zgERxf"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "image_with_text_overlay_iUjwjw": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -839,6 +881,53 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
+      }
+    },
+    "tabs_bq64Re": {
+      "type": "tabs",
+      "blocks": {
+        "tab_QrDtfh": {
+          "type": "tab",
+          "settings": {
+            "title": "En 7 jours",
+            "content": "<p>Votre peau retrouve son éclat naturel. Fini le teint terne et fatigué qui vous faisait paraître plus âgée.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_xdg4Rj": {
+          "type": "tab",
+          "settings": {
+            "title": "En 15 jours",
+            "content": "<p>Les premières rides commencent à s'atténuer visiblement. Vos amies vous demandent quel est votre secret.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_YCiFDK": {
+          "type": "tab",
+          "settings": {
+            "title": "En 30 jours",
+            "content": "<p>Transformation complète. Votre peau est plus ferme, plus lisse, plus jeune. Vous rayonnez de confiance.<br/><br/></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_QrDtfh",
+        "tab_xdg4Rj",
+        "tab_YCiFDK"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "Pourquoi des milliers de femmes ne jurent que par ce masque ?",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "tabs_AVRQ3D": {
@@ -898,53 +987,6 @@
         "content_size": "medium",
         "subheading": "",
         "title": "",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "tabs_bq64Re": {
-      "type": "tabs",
-      "blocks": {
-        "tab_QrDtfh": {
-          "type": "tab",
-          "settings": {
-            "title": "En 7 jours",
-            "content": "<p>Votre peau retrouve son éclat naturel. Fini le teint terne et fatigué qui vous faisait paraître plus âgée.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_xdg4Rj": {
-          "type": "tab",
-          "settings": {
-            "title": "En 15 jours",
-            "content": "<p>Les premières rides commencent à s'atténuer visiblement. Vos amies vous demandent quel est votre secret.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_YCiFDK": {
-          "type": "tab",
-          "settings": {
-            "title": "En 30 jours",
-            "content": "<p>Transformation complète. Votre peau est plus ferme, plus lisse, plus jeune. Vous rayonnez de confiance.<br/><br/></p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_QrDtfh",
-        "tab_xdg4Rj",
-        "tab_YCiFDK"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "Pourquoi des milliers de femmes ne jurent que par ce masque ?",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
@@ -1288,48 +1330,6 @@
       },
       "block_order": [
         "loox_reviews_loox_agg_section_m7yCUi"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
-    },
-    "17580171190be7e1d0": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_video_slider_zgERxf": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-video-slider/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "show-by-tag": false,
-            "layout": "spotlight",
-            "shadow": "",
-            "show-rating": true,
-            "show-reviewer-name": true,
-            "hide-arrows-mobile": true,
-            "auto-play": true,
-            "show-border": false,
-            "border-width": 1,
-            "border-radius": 16,
-            "text-color": "",
-            "rating-icon-color": "",
-            "border-color": "",
-            "play-button-color": "",
-            "shadow-color": "",
-            "product-id": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_video_slider_zgERxf"
       ],
       "settings": {
         "full_width": true,
