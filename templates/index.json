@@ -917,6 +917,14 @@
             "collection": ""
           }
         },
+        "video_FjLyHd": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/carou (1) (1).mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
+            "collection": ""
+          }
+        },
         "video_kYApHD": {
           "type": "video",
           "settings": {
@@ -930,6 +938,7 @@
         "video_LPWjAt",
         "video_ALHi7a",
         "video_QkeREi",
+        "video_FjLyHd",
         "video_kYApHD"
       ],
       "name": "Video carousel",
