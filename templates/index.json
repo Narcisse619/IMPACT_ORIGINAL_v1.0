@@ -831,7 +831,8 @@
         "video_XFPEKk": {
           "type": "video",
           "settings": {
-            "product": "",
+            "html5_video": "shopify://files/videos/lv_0_20250916182239.mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
             "collection": ""
           }
         },
