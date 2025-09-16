@@ -825,6 +825,71 @@
         "input_text_color": ""
       }
     },
+    "tabs_AVRQ3D": {
+      "type": "tabs",
+      "blocks": {
+        "tab_Hjqyfe": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment utiliser le Skinova™ Beauty Mask ?",
+            "content": "<h3><strong>Étape 1 : Préparez votre peau et installez le masque</strong></h3><ul><li>Démaquillez, nettoyez et séchez bien votre visage.</li><li>Attachez vos cheveux et retirez lunettes/accessoires.</li><li>Vérifiez que le masque est chargé et en bon état.</li><li>Placez-le confortablement sur votre visage et ajustez la sangle.</li></ul><h3><strong>Étape 2 : Choisissez votre mode de lumière</strong></h3><p>Chaque couleur agit sur un besoin précis :</p><ul><li>Rouge → rides, collagène, fermeté.</li><li>Bleu → acné, bactéries, pores purifiés.</li><li>Jaune → éclat du teint, circulation activée.</li><li>Vert → excès de sébum, pores resserrés.</li><li>Violet → cicatrices, régénératio</li><li>Cyan → prévention vieillissement, régénération cellulaire.</li><li>Infrarouge → inflammations, rougeurs apaisées.</li></ul><h3><strong>Étape 3 : Profitez de la séance</strong></h3><ul><li>Laissez agir <strong>15 à 20 minutes</strong> selon votre tolérance.</li><li>Répétez <strong>3 à 5 fois par semaine</strong>.</li><li>Relaxez-vous pendant la séance.</li></ul><h3><strong>Étape 4 : Après la séance et entretien</strong></h3><ul><li>Retirez le masque et appliquez un soin hydratant ou apaisant.</li><li>Nettoyez le masque avec un chiffon doux humide, sans le plonger dans l’eau.</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_CdkyiE": {
+          "type": "tab",
+          "settings": {
+            "title": "Quand vais-je voir les résultats ?",
+            "content": "<p>Les résultats varient selon les personnes, mais en général :</p><p>Peau plus lumineuse → après quelques séances</p><p>Réduction acné → 1 à 3 semaines</p><p>Réduction rides & ridules → 4 à 6 semaines</p>",
+            "page": ""
+          }
+        },
+        "tab_a8XjLi": {
+          "type": "tab",
+          "settings": {
+            "title": "Pourquoi ce prix alors qu'il existe moins cher ?",
+            "content": "<p>Notre masque<strong> Skinova™ Beauty Mask</strong> utilise des centaines de LED Samsung de qualité médicale. Même technologie que les appareils à 15 000€ des dermatologues. Certifications FDA + CE médical.<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_FD7zHH": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7J/7",
+            "content": "<p>Notre service client est disponible pour vous 7j/7. Email, chat, téléphone. Réponse garantie sous 24h maximum.</p><h3></h3>",
+            "page": ""
+          }
+        },
+        "tab_KEkHeg": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours gratuitement",
+            "content": "<p>Nous sommes convaincus de l’efficacité de notre masque Skinova™ Beauty Mask. C’est pourquoi nous vous offrons 30 jours d’essai sans risque : Utilisez le masque chez vous pendant 4 semaines. Constatez les premiers résultats dès 7 jours. Si vous n'êtes pas 100% satisfaite, retour gratuit et remboursement intégral.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_Hjqyfe",
+        "tab_CdkyiE",
+        "tab_a8XjLi",
+        "tab_FD7zHH",
+        "tab_KEkHeg"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "video_carousel_2_eYHtgj": {
       "type": "video-carousel-2",
       "blocks": {
@@ -948,71 +1013,6 @@
         "content_size": "medium",
         "subheading": "",
         "title": "Pourquoi des milliers de femmes ne jurent que par ce masque ?",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "tabs_AVRQ3D": {
-      "type": "tabs",
-      "blocks": {
-        "tab_Hjqyfe": {
-          "type": "tab",
-          "settings": {
-            "title": "Comment utiliser le Skinova™ Beauty Mask ?",
-            "content": "<h3><strong>Étape 1 : Préparez votre peau et installez le masque</strong></h3><ul><li>Démaquillez, nettoyez et séchez bien votre visage.</li><li>Attachez vos cheveux et retirez lunettes/accessoires.</li><li>Vérifiez que le masque est chargé et en bon état.</li><li>Placez-le confortablement sur votre visage et ajustez la sangle.</li></ul><h3><strong>Étape 2 : Choisissez votre mode de lumière</strong></h3><p>Chaque couleur agit sur un besoin précis :</p><ul><li>Rouge → rides, collagène, fermeté.</li><li>Bleu → acné, bactéries, pores purifiés.</li><li>Jaune → éclat du teint, circulation activée.</li><li>Vert → excès de sébum, pores resserrés.</li><li>Violet → cicatrices, régénératio</li><li>Cyan → prévention vieillissement, régénération cellulaire.</li><li>Infrarouge → inflammations, rougeurs apaisées.</li></ul><h3><strong>Étape 3 : Profitez de la séance</strong></h3><ul><li>Laissez agir <strong>15 à 20 minutes</strong> selon votre tolérance.</li><li>Répétez <strong>3 à 5 fois par semaine</strong>.</li><li>Relaxez-vous pendant la séance.</li></ul><h3><strong>Étape 4 : Après la séance et entretien</strong></h3><ul><li>Retirez le masque et appliquez un soin hydratant ou apaisant.</li><li>Nettoyez le masque avec un chiffon doux humide, sans le plonger dans l’eau.</li></ul>",
-            "page": ""
-          }
-        },
-        "tab_CdkyiE": {
-          "type": "tab",
-          "settings": {
-            "title": "Quand vais-je voir les résultats ?",
-            "content": "<p>Les résultats varient selon les personnes, mais en général :</p><p>Peau plus lumineuse → après quelques séances</p><p>Réduction acné → 1 à 3 semaines</p><p>Réduction rides & ridules → 4 à 6 semaines</p>",
-            "page": ""
-          }
-        },
-        "tab_a8XjLi": {
-          "type": "tab",
-          "settings": {
-            "title": "Pourquoi ce prix alors qu'il existe moins cher ?",
-            "content": "<p>Notre masque<strong> Skinova™ Beauty Mask</strong> utilise des centaines de LED Samsung de qualité médicale. Même technologie que les appareils à 15 000€ des dermatologues. Certifications FDA + CE médical.<br/><br/></p>",
-            "page": ""
-          }
-        },
-        "tab_FD7zHH": {
-          "type": "tab",
-          "settings": {
-            "title": "Service client 7J/7",
-            "content": "<p>Notre service client est disponible pour vous 7j/7. Email, chat, téléphone. Réponse garantie sous 24h maximum.</p><h3></h3>",
-            "page": ""
-          }
-        },
-        "tab_KEkHeg": {
-          "type": "tab",
-          "settings": {
-            "title": "Essayez-le 30 jours gratuitement",
-            "content": "<p>Nous sommes convaincus de l’efficacité de notre masque Skinova™ Beauty Mask. C’est pourquoi nous vous offrons 30 jours d’essai sans risque : Utilisez le masque chez vous pendant 4 semaines. Constatez les premiers résultats dès 7 jours. Si vous n'êtes pas 100% satisfaite, retour gratuit et remboursement intégral.</p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_Hjqyfe",
-        "tab_CdkyiE",
-        "tab_a8XjLi",
-        "tab_FD7zHH",
-        "tab_KEkHeg"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
@@ -1389,10 +1389,10 @@
     "rich_text_GLm76J",
     "images_with_text_scrolling_H3ebGD",
     "featured_product_FYXgpp",
+    "tabs_AVRQ3D",
     "video_carousel_2_eYHtgj",
     "image_with_text_overlay_iUjwjw",
     "tabs_bq64Re",
-    "tabs_AVRQ3D",
     "tabs_tKxKkL",
     "scrolling_text_YKmCHx",
     "faq_Fw6U7g",
