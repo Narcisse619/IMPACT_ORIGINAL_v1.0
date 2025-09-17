@@ -896,6 +896,14 @@
         "video_LPWjAt": {
           "type": "video",
           "settings": {
+            "html5_video": "shopify://files/videos/lv_0_20250917115925.mp4",
+            "product": "masque-7led-skinova™-luminotherapie",
+            "collection": ""
+          }
+        },
+        "video_q6dWGb": {
+          "type": "video",
+          "settings": {
             "html5_video": "shopify://files/videos/lv_0_20250916182239.mp4",
             "product": "masque-7led-skinova™-luminotherapie",
             "collection": ""
@@ -936,6 +944,7 @@
       },
       "block_order": [
         "video_LPWjAt",
+        "video_q6dWGb",
         "video_ALHi7a",
         "video_QkeREi",
         "video_FjLyHd",
