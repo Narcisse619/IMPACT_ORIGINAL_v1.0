@@ -402,8 +402,8 @@
           "settings": {
             "image": "shopify://shop_images/doctor.jpg",
             "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Technologie cliniquement validée.",
+            "subheading": "Technologie cliniquement validée.",
+            "title": "Dr. Renia Martinez",
             "content": "<p>Plus de <strong>150 études scientifiques</strong> publiées dans des revues médicales internationales confirment l'efficacité de la luminothérapie LED pour le rajeunissement cutané. Les dermatologues utilisent cette technologie car elle stimule naturellement la régénération cellulaire sans aucun effet secondaire.<br/><br/></p>",
             "button_url": "",
             "button_text": ""
