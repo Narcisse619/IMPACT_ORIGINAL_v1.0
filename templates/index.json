@@ -261,10 +261,36 @@
             "overlay_opacity": 0
           }
         },
+        "item_mGW7FT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/39c1df40bbfeff4603c623b162e60d9b.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "item_xjzPGT": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/f751b15f41f0ef83256159e608628dc4.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_3Nnjyq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/453bbfd0cfe38d7ca6e657b8a5a32f06.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -300,36 +326,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_3Nnjyq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/453bbfd0cfe38d7ca6e657b8a5a32f06.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "item_h4MHx6": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/cf823e8af97a53b025463b392df02d56.jpg",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_mGW7FT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/39c1df40bbfeff4603c623b162e60d9b.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -345,12 +345,12 @@
         "item_AinKHM",
         "item_8kFGc8",
         "item_FRfVxz",
+        "item_mGW7FT",
         "item_xjzPGT",
+        "item_3Nnjyq",
         "item_HptaDp",
         "item_6e9ejx",
-        "item_3Nnjyq",
-        "item_h4MHx6",
-        "item_mGW7FT"
+        "item_h4MHx6"
       ],
       "name": "Image link blocks",
       "settings": {
