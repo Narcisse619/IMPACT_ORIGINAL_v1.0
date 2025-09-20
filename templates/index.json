@@ -1310,6 +1310,39 @@
         "button_text_color": ""
       }
     },
+    "17579339357c2e188e": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_agg_section_m7yCUi": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "hide_thumbnails": false,
+            "product_handle": "",
+            "aggregated": true,
+            "data-limit": 20,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_agg_section_m7yCUi"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "text_with_icons_VXjcmn": {
       "type": "text-with-icons",
       "blocks": {
@@ -1384,39 +1417,6 @@
         "background_gradient": "",
         "text_color": ""
       }
-    },
-    "17579339357c2e188e": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_m7yCUi": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_m7yCUi"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -1443,7 +1443,7 @@
     "scrolling_text_YKmCHx",
     "faq_Fw6U7g",
     "contact_GNfRhY",
-    "text_with_icons_VXjcmn",
-    "17579339357c2e188e"
+    "17579339357c2e188e",
+    "text_with_icons_VXjcmn"
   ]
 }
