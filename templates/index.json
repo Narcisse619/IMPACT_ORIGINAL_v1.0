@@ -222,10 +222,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_AinKHM": {
+        "item_8kFGc8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/812823696e2629601863b5fd3d1f3f0f.jpg",
+            "image": "shopify://shop_images/e95b669a709e659605744ee77142222f.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -235,10 +235,10 @@
             "overlay_opacity": 0
           }
         },
-        "item_8kFGc8": {
+        "item_AinKHM": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/e95b669a709e659605744ee77142222f.jpg",
+            "image": "shopify://shop_images/812823696e2629601863b5fd3d1f3f0f.jpg",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -342,8 +342,8 @@
       },
       "block_order": [
         "item_jim9ch",
-        "item_AinKHM",
         "item_8kFGc8",
+        "item_AinKHM",
         "item_FRfVxz",
         "item_mGW7FT",
         "item_xjzPGT",
