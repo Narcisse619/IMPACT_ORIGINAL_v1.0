@@ -1188,7 +1188,7 @@
           "type": "item",
           "settings": {
             "title": "Combien de temps dure la batterie / branchement ?",
-            "content": "<p>Le masque fonctionne par câble USB ou batterie intégrée. L’autonomie est d’environ 3 à 5 séances par charge.</p>"
+            "content": "<p>Le masque fonctionne par câble USB et batterie intégrée. L’autonomie est d’environ 3 à 5 séances par charge.</p>"
           }
         },
         "item_aibCDm": {
