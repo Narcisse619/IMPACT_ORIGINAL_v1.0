@@ -125,11 +125,54 @@
         "logo_item_background": "",
         "logo_item_border": ""
       }
+    },
+    "rich_text_R6wG73": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HcUM8K": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Skinova™ Beauty Mask ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HcUM8K"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_mh4YT3": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_VR4GPy",
-    "logo_list_p6MMTm"
+    "logo_list_p6MMTm",
+    "rich_text_R6wG73",
+    "image_with_text_overlay_mh4YT3"
   ]
 }
