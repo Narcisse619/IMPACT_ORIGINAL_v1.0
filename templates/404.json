@@ -11,27 +11,26 @@
   "sections": {
     "main": {
       "type": "main-not-found",
+      "disabled": true,
       "settings": {}
     },
-    "rich_text_rmCBzr": {
-      "type": "rich-text",
+    "image_with_text_overlay_VR4GPy": {
+      "type": "image-with-text-overlay",
       "blocks": {
-        "subheading_wcjpWA": {
+        "subheading_QV6C9z": {
           "type": "subheading",
           "settings": {
             "text": "Subheading"
           }
         },
-        "heading_Gzbdpa": {
+        "heading_LXtMgc": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
           }
         },
-        "richtext_LqaFFX": {
+        "richtext_ENYHAV": {
           "type": "richtext",
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -39,23 +38,26 @@
         }
       },
       "block_order": [
-        "subheading_wcjpWA",
-        "heading_Gzbdpa",
-        "richtext_LqaFFX"
+        "subheading_QV6C9z",
+        "heading_LXtMgc",
+        "richtext_ENYHAV"
       ],
-      "name": "Rich text",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     }
   },
   "order": [
     "main",
-    "rich_text_rmCBzr"
+    "image_with_text_overlay_VR4GPy"
   ]
 }
